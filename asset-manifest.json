@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crestron-scheduler/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/crestron-scheduler/static/js/main.0128198b.chunk.js",
+    "main.js.map": "/crestron-scheduler/static/js/main.0128198b.chunk.js.map",
+    "runtime-main.js": "/crestron-scheduler/static/js/runtime-main.3367da81.js",
+    "runtime-main.js.map": "/crestron-scheduler/static/js/runtime-main.3367da81.js.map",
+    "static/js/2.0f14644c.chunk.js": "/crestron-scheduler/static/js/2.0f14644c.chunk.js",
+    "static/js/2.0f14644c.chunk.js.map": "/crestron-scheduler/static/js/2.0f14644c.chunk.js.map",
+    "static/js/3.6ec495be.chunk.js": "/crestron-scheduler/static/js/3.6ec495be.chunk.js",
+    "static/js/3.6ec495be.chunk.js.map": "/crestron-scheduler/static/js/3.6ec495be.chunk.js.map",
+    "index.html": "/crestron-scheduler/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/crestron-scheduler/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0f14644c.chunk.js.LICENSE.txt": "/crestron-scheduler/static/js/2.0f14644c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/crestron-scheduler/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3367da81.js",
+    "static/js/2.0f14644c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0128198b.chunk.js"
+  ]
+}
